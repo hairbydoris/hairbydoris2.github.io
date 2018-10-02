@@ -630,7 +630,7 @@ td {
   width: 100%;
   opacity: 0;
   transition: .5s ease;
-  background-color: #008CBA;
+  background-color: #b28431;
 }
 
 .container:hover .overlay {
