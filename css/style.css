@@ -690,7 +690,17 @@ div#carouselExampleIndicators1 {
     padding-bottom: 52px;
     background-color:#fff !important;
 }
-
+div#carouselExampleIndicators2{
+  padding-top: 20px;
+    padding-bottom: 52px;
+    background-color:#fff !important;
+}
+img.card-img-gal {
+    height: 402px;
+    width: 302px;
+    border-top-left-radius: calc(0.25rem - 1px);
+    border-top-right-radius: calc(0.25rem - 1px);
+}
 /* Footer */
 footer.footer {
   padding-top: 5rem;
