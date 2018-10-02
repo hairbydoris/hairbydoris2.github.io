@@ -13,10 +13,10 @@ body {
 }
 
 li.nav-item {
-	font-family: cursive;
+  font-family: cursive;
     color: #b28431;
     font-size: 25px;
-	font-weight: bolder;
+  font-weight: bolder;
 }
 
 .content-section {
@@ -470,7 +470,7 @@ a:hover {
 }
 
 @media only screen and (min-width: 769px){
-	 .time-list-items{
+   .time-list-items{
     padding: 6rem;
   }
 }
@@ -518,7 +518,7 @@ button.button-about-us {
 }
 .about_us_more-buttn {
     padding-top: 35px;
-	padding-bottom: 35px;
+  padding-bottom: 35px;
 }
 section#contact {
     background-image: url("../img/hair_by_doris.jpg");
